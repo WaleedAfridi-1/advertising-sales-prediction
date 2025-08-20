@@ -49,11 +49,12 @@ It provides businesses and analysts with **quick insights** into how marketing s
 cd advertising-sales-prediction
 ```
 ---
-- **2️⃣ Install Dependencies**
+**2️⃣ Install Dependencies**
+
 ```pip install -r requirements.txt
 ```
 ---
-- **3️⃣ Run App**
+**3️⃣ Run App**
 ```streamlit run app.py
 ```
 
