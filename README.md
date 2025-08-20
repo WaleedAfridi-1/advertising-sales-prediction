@@ -48,9 +48,11 @@ It provides businesses and analysts with **quick insights** into how marketing s
 ```git clone https://github.com/WaleedAfridi-1/advertising-sales-prediction.git
 cd advertising-sales-prediction
 ```
+---
 - **2️⃣ Install Dependencies**
 ```pip install -r requirements.txt
 ```
+---
 - **3️⃣ Run App**
 ```streamlit run app.py
 ```
