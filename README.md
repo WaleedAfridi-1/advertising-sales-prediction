@@ -11,7 +11,6 @@ A Streamlit-based machine learning web app that predicts sales based on advertis
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
 </p>
 
----
 
 👉 **Live Demo:** [Advertising Sales Prediction App](https://advertising-sales-prediction-waleedafridi.streamlit.app/)
 
