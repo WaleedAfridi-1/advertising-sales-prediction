@@ -12,7 +12,10 @@ A Streamlit-based machine learning web app that predicts sales based on advertis
 </p>
 
 ---
+# App Link 
+👉 **Live Demo:** [Advertising Sales Prediction App]([https://cardio-heart-disease-prediction-app.streamlit.app/](https://advertising-sales-prediction-waleedafridi.streamlit.app/))
 
+---
 ## 🚀 Overview  
 This project is a **machine learning web app** built with **Streamlit** that predicts **Sales Revenue** based on advertising budgets across **TV, Radio, and Newspaper**.  
 
