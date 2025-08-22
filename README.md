@@ -13,7 +13,7 @@ A Streamlit-based machine learning web app that predicts sales based on advertis
 
 ---
 # App Link 
-👉 **Live Demo:** [Advertising Sales Prediction App] [(https://advertising-sales-prediction-waleedafridi.streamlit.app/])
+👉 **Live Demo:** [Advertising Sales Prediction App](https://advertising-sales-prediction-waleedafridi.streamlit.app/)
 
 ---
 ## 🚀 Overview  
