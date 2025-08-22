@@ -9,11 +9,11 @@ A Streamlit-based machine learning web app that predicts sales based on advertis
   <img src="https://img.shields.io/badge/Model-Linear%20Regression-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
-</p>
+
 
 
 👉 **Live Demo:** [Advertising Sales Prediction App](https://advertising-sales-prediction-waleedafridi.streamlit.app/)
-
+</p>
 ---
 ## 🚀 Overview  
 This project is a **machine learning web app** built with **Streamlit** that predicts **Sales Revenue** based on advertising budgets across **TV, Radio, and Newspaper**.  
