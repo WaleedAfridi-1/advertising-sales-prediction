@@ -12,7 +12,7 @@ A Streamlit-based machine learning web app that predicts sales based on advertis
 </p>
 
 ---
-# App Link 
+
 👉 **Live Demo:** [Advertising Sales Prediction App](https://advertising-sales-prediction-waleedafridi.streamlit.app/)
 
 ---
@@ -48,12 +48,16 @@ It provides businesses and analysts with **quick insights** into how marketing s
 ---
 ## ⚙️ Installation
 - **1️⃣ Clone Repository**
-```git clone https://github.com/WaleedAfridi-1/advertising-sales-prediction.git
+```bash
+git clone https://github.com/WaleedAfridi-1/advertising-sales-prediction.git
 cd advertising-sales-prediction
- #2️⃣ Install Dependencies
-pip install -r requirements.txt
-
-# 3️⃣ Run App
+```
+- **2️⃣ Install Dependencies**
+```bashpip
+install -r requirements.txt
+```
+- **3️⃣ Run App**
+```bash
 streamlit run app.py
 ```
 
